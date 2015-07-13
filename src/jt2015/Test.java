@@ -11,6 +11,8 @@ public class Test {
 		
 		System.out.println("take time:"+(t2-t1)+"ms!");
 		
+		System.out.println("read me !!! 001");
+		
 	}
 
 }

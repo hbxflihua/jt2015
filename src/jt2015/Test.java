@@ -10,6 +10,8 @@ public class Test {
 		System.out.println("sssss");
 		
 		System.out.println("mars-1");
+		
+		System.out.println("mars-2");
 	}
 
 }

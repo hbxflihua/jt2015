@@ -32,7 +32,7 @@ public class Test {
 
 	
 	public String toTestMars(){
-		
+		System.out.println("111");
 		return null;
 	}
 }

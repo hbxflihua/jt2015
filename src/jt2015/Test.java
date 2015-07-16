@@ -18,6 +18,8 @@ public class Test {
 		System.out.println("mars-2");
 		System.out.println("mars-4");
 		System.out.println("mars-6");
+		System.out.println("mars-1");
+		System.out.println("mars-2");
 	}
 
 }

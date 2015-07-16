@@ -8,6 +8,8 @@ public class Test {
 		System.out.println("world!");
 		
 		System.out.println("sssss");
+		
+		System.out.println("mars-1");
 	}
 
 }

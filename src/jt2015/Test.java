@@ -23,5 +23,11 @@ public class Test {
 		
 		
 	}
+	
+	
+	public void toTestLuna(){
+		
+		System.out.println("syso luna");
+	}
 
 }

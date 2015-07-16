@@ -30,4 +30,9 @@ public class Test {
 		System.out.println("syso luna");
 	}
 
+	
+	public String toTestMars(){
+		
+		return null;
+	}
 }

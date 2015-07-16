@@ -24,4 +24,9 @@ public class Test {
 		
 	}
 
+	
+	public String toTestMars(){
+		
+		return null;
+	}
 }

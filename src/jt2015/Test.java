@@ -16,7 +16,8 @@ public class Test {
 		
 		
 		System.out.println("mars-2");
-		//123123123123
+		System.out.println("mars-1");
+		System.out.println("mars-2");
 	}
 
 }
